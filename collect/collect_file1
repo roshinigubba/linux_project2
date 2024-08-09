@@ -2,3 +2,10 @@
 echo
 echo "cpu health check:"
 echo
+mpstat
+#iostat,top
+echo
+echo "memory usage"
+echo
+free -h
+echo
