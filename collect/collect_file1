@@ -9,3 +9,7 @@ echo "memory usage"
 echo
 free -h
 echo
+echo "disk usage"
+echo
+df -h
+echo
